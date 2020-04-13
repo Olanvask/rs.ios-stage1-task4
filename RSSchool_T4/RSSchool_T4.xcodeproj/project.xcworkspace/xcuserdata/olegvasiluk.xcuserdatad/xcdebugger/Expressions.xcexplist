@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<VariablesViewState
+   version = "1.0">
+   <ContextStates>
+      <ContextState
+         contextName = "-[FullBinaryTrees deleteTrailingNullFrom:]:FullBinaryTrees.m">
+         <PersistentStrings>
+            <PersistentString
+               value = "[str substringWithRange:range]">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "-[FullBinaryTrees stringForNodeCount:]:FullBinaryTrees.m">
+         <PersistentStrings>
+            <PersistentString
+               value = "">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+   </ContextStates>
+</VariablesViewState>
